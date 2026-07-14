@@ -1,0 +1,152 @@
+{
+    "1380221510672842783": {
+        "vendas": "ON",
+        "saldo": 0,
+        "pedidoMin": 100,
+        "precoMembro": 0.03,
+        "comissao": 50,
+        "cargoEquipe": "undefined",
+        "cargoCliente": "undefined",
+        "email": "undefined",
+        "perms": [],
+        "estatisticas": {
+            "Segunda": 0,
+            "Terça": 0,
+            "Quarta": 0,
+            "Quinta": 0,
+            "Sexta": 0
+        },
+        "webhook": "undefined",
+        "msgEnviada": "sim",
+        "mensagem": {
+            "embed": {
+                "title": "🚀 • Compra de m3mbros real",
+                "desc": "\n- **Qualidade premium**\n> Transforme seu servidor e atraia mais atenção de possíveis clientes ou membros na sua comunidade com membros misto!\n\n- **Impulsione suas vendas**\n> Com nossos membros, você terá oportunidade de chamar mais atenção para sua loja, trazendo uma conversão de vendas maior\n\n- **O Melhor Preço do Mercado**\n> Temos orgulho de trazer o menor preço do mercado para vocês, aqui você paga menos e leva mais\n\n- **Sistema de refil**\n> Nosso BOT possui o sistema de refil, garantindo que você aproveite 100% do produto que você comprou!\n\n- **Entrega Rápida e Garantida**\n> Entrega rápida e garantida: receba seus membros ou seu dinheiro de volta!\n\n-# Pode conter membros reais misturado!\n⠀\n-# `✅`・Sistema de refil incluso\n-# `✅`・Menor preço do mercado",
+                "banner": "https://media.discordapp.net/attachments/1256793568127746118/1264011733182320660/banner-1.png?ex=67d179e9&is=67d02869&hm=73e1714434007075c75489033ff62cbae4ec242dd929f5643daf268bf28bd665&"
+            },
+            "botao": {
+                "label": "Adquirir",
+                "emoji": "<:emoji_43:1337385917660532746>",
+                "cor": 2
+            }
+        },
+        "mensagem_env": {
+            "canalid": "1380237613142773921",
+            "msgid": "1380371355731759236"
+        }
+    },
+    "1380314870515237027": {
+        "vendas": "ON",
+        "saldo": 1.6,
+        "pedidoMin": 100,
+        "precoMembro": 0.032,
+        "comissao": 50,
+        "cargoEquipe": "1380320685150441482",
+        "cargoCliente": "1380320836522868816",
+        "email": "lucasrocha7037@gmail.com",
+        "perms": [
+            "313095588184850433",
+            "1253715431064342632"
+        ],
+        "estatisticas": {
+            "Segunda": 0,
+            "Terça": 0,
+            "Quarta": 0,
+            "Quinta": 0,
+            "Sexta": 0,
+            "undefined": 1.6
+        },
+        "webhook": "https://discord.com/api/webhooks/1380476643780333610/c4srJ7YgxkL0ScXjH_jPu_ynr-xH8_49aEqLPFTjNG58mO5NIR7jzB2RRzH3rt3z8GGj",
+        "msgEnviada": "sim",
+        "mensagem": {
+            "embed": {
+                "title": "🚀 • Compra de m3mbros real",
+                "desc": "Entregues instantaneamente após a confirmação do pagamento!\n\n- Por favor, note que a **remoção do BOT** de autenticação resultará na interrupção da função de adição de membros.\n- A responsabilidade pela gestão dos membros adicionados é do cliente.\n- Os membros são usuários recentemente registrados em serviços de autenticação aprovados pelo Discord.\n- Garantimos que todos são 100% pessoas reais.\n\n **Nicho dos membros:**\n- Lojas de variados produtos dentro do Discord.\n- A maioria dos [membros](https://cdn.discordapp.com/attachments/1379990961995776001/1380356429294080082/logo.png?ex=6843949a&is=6842431a&hm=5b294794e413820a9731d7a5cdabaf481def931fa80ad7d1942b36bfe44ccf39& ) são ativos e estão frequentemente online, proporcionando ótimos resultados para nossos clientes.",
+                "banner": "https://cdn.discordapp.com/attachments/1379990961995776001/1380356429294080082/logo.png?ex=6843949a&is=6842431a&hm=5b294794e413820a9731d7a5cdabaf481def931fa80ad7d1942b36bfe44ccf39&"
+            },
+            "botao": {
+                "label": "Adquirir membros",
+                "emoji": "<:emoji_43:1337385917660532746>",
+                "cor": 2
+            }
+        },
+        "mensagem_env": {
+            "canalid": "1380317944881352714",
+            "msgid": "1380634954735681679"
+        }
+    },
+    "1377763958055895100": {
+        "vendas": "ON",
+        "saldo": 0,
+        "pedidoMin": 100,
+        "precoMembro": 0.032,
+        "comissao": 50,
+        "cargoEquipe": "1377769414778421350",
+        "cargoCliente": "undefined",
+        "email": "undefined",
+        "perms": [
+            "1281987046331912304"
+        ],
+        "estatisticas": {
+            "Segunda": 0,
+            "Terça": 0,
+            "Quarta": 0,
+            "Quinta": 0,
+            "Sexta": 0
+        },
+        "webhook": "https://discord.com/api/webhooks/1378346206564061194/HcmttkSDD1Ofl_qqvD-Qze4mTQBYwhpkw7wxXerCEU9YI0Han9BuLXwMHtZ4QZVtYejM",
+        "msgEnviada": "sim",
+        "mensagem": {
+            "embed": {
+                "title": "🚀 • Compra de m3mbros real",
+                "desc": "Entregues instantaneamente após a confirmação do pagamento!\n\n- Por favor, note que a **remoção do BOT** de autenticação resultará na interrupção da função de adição de membros.\n- A responsabilidade pela gestão dos membros adicionados é do cliente.\n- Os membros são usuários recentemente registrados em serviços de autenticação aprovados pelo Discord.\n- Garantimos que todos são 100% pessoas reais.\n\n **Nicho dos membros:**\n- Lojas de variados produtos dentro do Discord.\n- A maioria dos [membros](https://cdn.discordapp.com/attachments/1379990961995776001/1380356429294080082/logo.png?ex=6843949a&is=6842431a&hm=5b294794e413820a9731d7a5cdabaf481def931fa80ad7d1942b36bfe44ccf39& ) são ativos e estão frequentemente online, proporcionando ótimos resultados para nossos clientes.",
+                "banner": "https://cdn.discordapp.com/attachments/1379990961995776001/1380356429294080082/logo.png?ex=6843949a&is=6842431a&hm=5b294794e413820a9731d7a5cdabaf481def931fa80ad7d1942b36bfe44ccf39&"
+            },
+            "botao": {
+                "label": "Adquirir membros",
+                "emoji": "<:emoji_43:1337385917660532746>",
+                "cor": 2
+            }
+        },
+        "mensagem_env": {
+            "canalid": "1377771442791387327",
+            "msgid": "1380647157295480832"
+        }
+    },
+    "1326945006673727499": {
+        "vendas": "ON",
+        "saldo": 0,
+        "pedidoMin": 100,
+        "precoMembro": 0.032,
+        "comissao": 50,
+        "cargoEquipe": "1379595308849303552",
+        "cargoCliente": "1379595216473952458",
+        "email": "undefined",
+        "perms": [],
+        "estatisticas": {
+            "Segunda": 0,
+            "Terça": 0,
+            "Quarta": 0,
+            "Quinta": 0,
+            "Sexta": 0
+        },
+        "webhook": "https://discord.com/api/webhooks/1380976150418821120/h6_U_JdgptY3V8VBYPnCzS8J_UTgglqPnXZDoqakoRllNItYPdiFzsjqu_2mpz2TB0LA",
+        "msgEnviada": "sim",
+        "mensagem": {
+            "embed": {
+                "title": "🚀 • Compra de m3mbros real",
+                "desc": "✅ **Entrega imediata após a confirmação do pagamento!**  \n\n- Atenção: A **remoção do BOT** de autenticação interromperá a função de adição de m3mbros.  \n- A gestão dos m3mbros adicionados é de responsabilidade exclusiva do client3.  \n- Os m3mbros são usuários recentemente registrados em serviços de autenticação aprovados pelo Discord.  \n- Garantimos 100% de autenticidade – todos são pessoas reais!  \n\n🔹 **Nicho dos m3mbros:**  \n- Lojas de diversos produtos dentro do Discord.  \n- A maioria dos __m3mbros__ são ativos e estão frequentemente online, oferecendo excelentes resultados para nossos clientes.\n -#  Pode conter membros misturados.",
+                "banner": "https://media.discordapp.net/attachments/1256793568127746118/1264011733182320660/banner-1.png?ex=67d179e9&is=67d02869&hm=73e1714434007075c75489033ff62cbae4ec242dd929f5643daf268bf28bd665&"
+            },
+            "botao": {
+                "label": "Adquirir",
+                "emoji": "<:emoji_43:1337385917660532746>",
+                "cor": 2
+            }
+        },
+        "mensagem_env": {
+            "canalid": "1380972382226747554",
+            "msgid": "1380976780562796646"
+        }
+    }
+}

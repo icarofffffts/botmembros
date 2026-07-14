@@ -1,0 +1,16 @@
+{
+  "name": "botmembros",
+  "version": "1.0.0",
+  "description": "Bot de revenda de membros com pagamento PIX",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "chartjs-node-canvas": "^5.0.0",
+    "discord.js": "^14.18.0",
+    "mercadopago": "^2.3.0",
+    "wio.db": "^4.0.22"
+  }
+}
