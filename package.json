@@ -1,7 +1,7 @@
 {
   "name": "botmembros",
   "version": "1.0.0",
-  "description": "Bot de revenda de membros com pagamento PIX",
+  "description": "Bot geral com sistema de vendas, autenticacao, tickets e membros",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
