@@ -1,7 +1,7 @@
 {
   "name": "botmembros",
   "version": "1.0.0",
-  "description": "Bot geral com sistema de vendas, autenticacao, tickets e membros",
+  "description": "Sistema de membros com PIX e painel de vendas para Discord",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
